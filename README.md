@@ -1,5 +1,7 @@
 ﻿# 🕌 Civilization Operating System (COS)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18672231.svg)](https://doi.org/10.5281/zenodo.18672231)
+
 **Bismillah ir-Rahman ir-Rahim**
 
 The world's first open-source Sharia-compliant operating system backend for Islamic finance.
@@ -55,6 +57,7 @@ Developed as ongoing charity for the Ummah.
 
 **Author**: Fatih Dinc  
 **GitHub**: [@FatihX](https://github.com/FatihX)  
-**Email**: fatdinhero@gmail.com
+**Email**: fatdinhero@gmail.com  
+**DOI**: [10.5281/zenodo.18672231](https://doi.org/10.5281/zenodo.18672231)
 
 🕌 **Alhamdulillah**
