@@ -56,8 +56,8 @@ Developed as ongoing charity for the Ummah.
 ---
 
 **Author**: Fatih Dinc  
-**GitHub**: [@FatihX](https://github.com/FatihX)  
-**Email**: fatdinhero@gmail.com  
+**GitHub**: https://github.com/fatdinhero 
+**Email**: chrsdyor@gmail.com 
 **DOI**: [10.5281/zenodo.18672231](https://doi.org/10.5281/zenodo.18672231)
 
 🕌 **Alhamdulillah**
