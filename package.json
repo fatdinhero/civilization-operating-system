@@ -1,0 +1,27 @@
+﻿{
+    "scripts":  {
+                    "test":  "tsx src/test.ts",
+                    "dev":  "tsx src/test.ts"
+                },
+    "description":  "Sharia-Compliant Civilization Operating System Backend",
+    "type":  "module",
+    "version":  "0.1.0",
+    "author":  {
+                   "email":  "fatdinhero@gmail.com",
+                   "url":  "https://github.com/FatihX",
+                   "name":  "Fatih Dinc"
+               },
+    "name":  "cos-backend",
+    "keywords":  [
+                     "sharia",
+                     "islamic-finance",
+                     "riba-free",
+                     "halal",
+                     "zakat"
+                 ],
+    "repository":  {
+                       "type":  "git",
+                       "url":  "https://github.com/FatihX/civilization-operating-system.git"
+                   },
+    "license":  "SEE LICENSE FILE"
+}
