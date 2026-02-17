@@ -56,7 +56,7 @@ Developed as ongoing charity for the Ummah.
 ---
 
 **Author**: Fatih Dinc  
-**Email**: chrsdyor@gmail.com 
+**Email**: chrsdyor@gmail.com , saskiatwitter@gmail.com
 **DOI**:[10.5281/zenodo.18672231](https://doi.org/10.5281/zenodo.18672231)
 
 🕌 **Alhamdulillah**
