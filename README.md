@@ -41,7 +41,7 @@ detectRiba({
 - **Open Source** (Free): Educational, research, non-profit
 - **Commercial License**: For banks & enterprises
 
-Contact: fatdinhero@gmail.com
+Contact: chrsdyor@gmail.com
 
 ## 📜 License
 
@@ -56,7 +56,6 @@ Developed as ongoing charity for the Ummah.
 ---
 
 **Author**: Fatih Dinc  
-**GitHub**: @fatdinhero 
 **Email**: chrsdyor@gmail.com 
 **DOI**: [10.5281/zenodo.18672231]
 (https://doi.org/10.5281/zenodo.18672231)
