@@ -4,3 +4,14 @@ dist/
 .env
 .DS_Store
 package-lock.json
+
+# Test coverage
+coverage/
+*.lcov
+
+# Build output
+dist/
+
+# Environment
+.env
+.env.local
